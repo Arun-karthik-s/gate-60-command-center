@@ -1,0 +1,13 @@
+{
+  "name": "GATE CS 2027 · 60+ Study Command Center",
+  "short_name": "GATE 60+",
+  "description": "An offline-first GATE CS 2027 preparation dashboard with a 60+ focused roadmap, syllabus tracker, PYQs, mocks, notes and analytics.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FF4FA3",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
